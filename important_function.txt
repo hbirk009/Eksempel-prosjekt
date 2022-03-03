@@ -1,3 +1,5 @@
 function for computing pi
 
 counting 1 2 3
+
+counting 7 8 9
