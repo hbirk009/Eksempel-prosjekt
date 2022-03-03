@@ -1,1 +1,3 @@
 function for computing pi
+
+counting 1 2 3
